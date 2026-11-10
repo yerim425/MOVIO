@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movio/static/css/main.2d587828.css",
+    "main.js": "/movio/static/js/main.63915e5b.js",
+    "index.html": "/movio/index.html",
+    "main.2d587828.css.map": "/movio/static/css/main.2d587828.css.map",
+    "main.63915e5b.js.map": "/movio/static/js/main.63915e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d587828.css",
+    "static/js/main.63915e5b.js"
+  ]
+}
